@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @AreebEhsan
-- 👀 I’m interested in CompSci 
-- 🌱 I’m currently polishing my Python skills and expanding my knowledge of CS
-- 💞️ I’m looking to collaborate on a valuable project
-- 📫 How to reach me:- Discord : _Æ_ (#3660)
+<h1>Hi, I'm Areeb! <br/><a href="https://github.com/AreebEhsan">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Computer Science Major</a>
 
-<!---
-AreebEhsan/AreebEhsan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<h2> 🤳 Connect with me:</h2>
+
+<img align="left" alt="Æ#3660 | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+<img align="left" alt="Areeb Ehsan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<img align="left" alt="Areeb Ehsan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="Areeb Ehsan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+
+[twitter]:https://twitter.com/ae_areeb
+
+[linkedin]: https://www.linkedin.com/in/areebehsan/
+
+
