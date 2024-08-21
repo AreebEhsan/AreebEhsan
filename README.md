@@ -1,13 +1,13 @@
-<h1>Hi, I'm Areeb! <br/><a href="https://github.com/AreebEhsan">Programmer</a>, <a href="https://www.linkedin.com/in/areebehsan/">Computer Science Major</a>
+<h1>Hi, I'm Areeb! <br/><a href="https://github.com/AreebEhsan">Programmer</a>, <a href="https://www.linkedin.com/in/areebehsan/">Computer Science Major</a></h1>
 
-👋 I'm a passionate Computer Science student with a strong foundation in data structures, algorithms, and mathematics. I have a growing interest in AI and machine learning and love to work on projects that blend creativity with technical challenges.
+I'm a passionate Computer Science student with a strong foundation in data structures, algorithms, and mathematics. I have a growing interest in AI and machine learning and love to work on projects that blend creativity with technical challenges.
 
 I enjoy building web applications with HTML, CSS, and JavaScript, and I'm diving deeper into Python for AI projects. Currently, I'm experimenting with memory management algorithms and exploring object-oriented programming principles.
 
 When I'm not coding, you can find me solving Rubik's cubes at lightning speed or diving into science fiction. Let's collaborate and create something amazing!
 
-🌱 Currently learning: AI and ML, Advanced React, Python for AI  
-💻 Projects: Web Apps, Python Simulations, AI Chatbots
+🌱 **Currently learning:** AI and ML, Advanced React, Python for AI  
+💻 **Projects:** Web Apps, Python Simulations, AI Chatbots
 
 <h2> 🤳 Connect with me:</h2>
 
