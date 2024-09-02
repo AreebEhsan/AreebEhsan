@@ -15,7 +15,7 @@ When I'm not coding, you can find me solving Rubik's cubes at lightning speed or
     <img align="left" alt="Æ#3660 | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
 
-<img align="left" alt="Areeb Ehsan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<img align="left" alt="Areeb Ehsan | Twitter" width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AX_icon.svg&psig=AOvVaw0c9wbqz4aYwrsF3FqLafdG&ust=1725385158938000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKjVx97mpIgDFQAAAAAdAAAAABAE)" />
 <a href="https://www.linkedin.com/in/areebehsan/" target="_blank">
     <img align="left" alt="Areeb Ehsan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
