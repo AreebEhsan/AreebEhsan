@@ -6,8 +6,8 @@ I enjoy building web applications with HTML, CSS, and JavaScript, and I'm diving
 
 When I'm not coding, you can find me solving Rubik's cubes at lightning speed or diving into science fiction. Let's collaborate and create something amazing!
 
-🌱 **Currently learning:** AI and ML, Advanced React, Python for AI  
-💻 **Projects:** Web Apps, Python Simulations, AI Chatbots
+🌱 **Currently learning:** AI and ML, React, Python for AI  
+💻 **Projects:** Web Apps, Python Simulations, Algorithm Visualizer
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
