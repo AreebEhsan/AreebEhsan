@@ -8,7 +8,8 @@ When I'm not coding, you can find me solving Rubik's cubes at lightning speed or
 
 🌱 **Currently learning:** AI and ML, React, Python for AI  
 💻 **Projects:** Web Apps, Python Simulations, Algorithm Visualizer
-
+ 
+![Areeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=AreebEhsan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
@@ -18,11 +19,10 @@ When I'm not coding, you can find me solving Rubik's cubes at lightning speed or
 
 
 <br/>
-### GitHub Stats
 
-![Areeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=AreebEhsan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AreebEhsan&theme=tokyonight)
+
+
 
 <hr/>
 
