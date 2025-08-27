@@ -19,7 +19,7 @@ I build practical AI systems and production-style software. My recent work spans
   Autonomous agent that searches, extracts, and compares developer tools; multi-step reasoning with lightweight visualization.
 
 ---
-![Areeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=AreebEhsan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
+
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
