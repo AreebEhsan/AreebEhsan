@@ -1,14 +1,24 @@
-<h1>Hi, I'm Areeb! <br/><a href="https://github.com/AreebEhsan">Programmer</a>, <a href="https://www.linkedin.com/in/areebehsan/">Computer Science Major</a></h1>
+<h1>Hi, I'm Areeb!<br/>🧑‍💻 <a href="https://github.com/AreebEhsan">Engineer</a> • <a href="https://www.linkedin.com/in/areebehsan/">CS @ GSU (’26)</a></h1>
 
-I'm a passionate Computer Science student with a strong foundation in data structures, algorithms, and mathematics. I have a growing interest in AI and machine learning and love to work on projects that blend creativity with technical challenges.
+I build practical AI systems and production-style software. My recent work spans **RAG pipelines**, **agentic workflows**, and a **Spring Boot + Chrome Extension** research assistant. I’m a **CodePath E3 Scholar** and keep a 3.9 GPA with **Data Science concentration**.
 
-I enjoy building web applications with HTML, CSS, and JavaScript, and I'm diving deeper into Python for AI projects. Currently, I'm experimenting with memory management algorithms and exploring object-oriented programming principles.
+- 🧠 **Focus:** Retrieval-augmented generation (RAG), LLM agents, full-stack backends, and eval/latency tuning  
+- 🏆 **Highlights:** SCUDEM **Outstanding Award** (highest distinction), **Grand Integrator** (1st place, Integral Bee), 3rd place Undergraduate Math Competition
+- 🎯 **Looking for:** AI/ML + SWE roles where I can own end-to-end features (retrieval, agents, APIs, observability)
 
-When I'm not coding, you can find me solving Rubik's cubes at lightning speed or diving into science fiction. Let's collaborate and create something amazing!
+---
 
-🌱 **Currently learning:** AI and ML, React, Python for AI  
-💻 **Projects:** Web Apps, Python Simulations, Algorithm Visualizer
- 
+### 🔭 Featured Projects
+- **Research Assistant Extension** — <a href="https://github.com/AreebEhsan/Research-Assistant-Extension">Spring Boot + Chrome Extension</a>  
+  Two-tier system: Java/Spring backend (Gemini via WebClient, Jackson/Lombok) + MV3 extension for in-page highlight ➜ summarize ➜ notes.
+
+- **RAG-LLM Applications** — <a href="https://github.com/AreebEhsan/RAG-LLM-Applications">Website & PDF RAG + LangGraph agent</a>  
+  Suite of grounded QA apps using LangChain, FAISS/Chroma, Streamlit, PyPDF2; modular chunking/embeddings and hybrid retrieval (latency ↓ ~25%).
+
+- **Developer Tools Research LLM Agent** — <a href="https://github.com/AreebEhsan/Developer-Tools-Research-LLM-Agent">LangGraph + Firecrawl</a>  
+  Autonomous agent that searches, extracts, and compares developer tools; multi-step reasoning with lightweight visualization.
+
+---
 ![Areeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=AreebEhsan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
