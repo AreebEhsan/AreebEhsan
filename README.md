@@ -38,25 +38,12 @@ I build practical AI systems and production-style software. My recent work spans
   Autonomous agent that searches, extracts, and compares developer tools; multi-step reasoning with lightweight visualization.
 
 ---
-<h2 align="center">⚒️ Tech Stack</h2>
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,c,r&theme=dark&perline=6" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <!-- repeat for each tool -->
 </p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,figma&theme=dark&perline=6" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,flask,mysql,mongodb&theme=dark&perline=6" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=firebase,supabase,git,github,vscode,docker&theme=dark&perline=6" />
-</p>
-
-
-
-
-<hr/>
 
 <h2> 🤳 Connect with me:</h2>
 
