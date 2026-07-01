@@ -17,7 +17,7 @@
   
   
 </p>
-<h1>Hi, I'm Areeb!<br/>🧑‍💻 <a href="https://github.com/AreebEhsan">Student</a> • <a href="https://www.linkedin.com/in/areebehsan/">CS @ GSU (’26)</a></h1>
+<h1>Hi, I'm Areeb!<br/>🧑‍💻 <a href="https://github.com/AreebEhsan">Student</a> • <a href="https://www.linkedin.com/in/areebehsan/">MCS @ UIUC</a></h1>
 
 I build practical AI systems and production-style software. My recent work spans **RAG pipelines**, **agentic workflows**, and a **Spring Boot + Chrome Extension** research assistant. I’m a **CodePath E3 Scholar** and keep a 3.9 GPA with **Data Science concentration**.
 
